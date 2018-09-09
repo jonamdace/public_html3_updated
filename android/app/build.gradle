@@ -135,6 +135,7 @@ android {
 }
 
 dependencies {
+    compile project(':@remobile_react-native-splashscreen')
     compile project(':react-native-admob')
     compile project(':react-native-vector-icons')
     compile project(':react-native-image-picker')
